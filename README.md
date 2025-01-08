@@ -89,16 +89,17 @@ exhaustive methods.
   program to implement the given logic function and to verify its operations in quartus using Verilog programming. 
 
 
-![Screenshot (100)](https://github.com/user-attachments/assets/2f43d5ec-23a8-407f-a8f7-e088bb93f137)
+
+![Screenshot (133)](https://github.com/user-attachments/assets/c20ece2a-b3ef-4a38-8fcb-fdb9131046b1)
 
 
 **RTL realization**
-![Screenshot (101)](https://github.com/user-attachments/assets/1daad59b-c532-45ff-a9e0-6db51f565903)
 
-
+![Screenshot (134)](https://github.com/user-attachments/assets/742a49b8-1fad-4e7e-af2b-4db5e97d303c)
 
 **Timing Diagram**
-![Screenshot (102)](https://github.com/user-attachments/assets/c3a86d0c-7252-4836-bc6f-413b0a568198)
+![Screenshot (135)](https://github.com/user-attachments/assets/5d576412-73e1-4951-bdbe-a7180c384614)
+
 
 **Result:**
 
